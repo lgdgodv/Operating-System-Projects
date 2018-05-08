@@ -1,0 +1,2 @@
+gcc connection.cpp -o client
+./client
